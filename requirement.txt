@@ -1,0 +1,10 @@
+click
+os-sys
+pathlib
+numpy
+glob
+pandas
+networkx
+nx_pydot
+scipy
+pydot
