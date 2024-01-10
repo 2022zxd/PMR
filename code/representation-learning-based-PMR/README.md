@@ -5,6 +5,7 @@ The main steps are：
 
 first, use the trained or pre-trained code representation model for transforming a set of programs to their vector representations, 
 which accordingly form the basis for the data preparation phase. 
+
 second, feed the code vector into the classifier, yielding applicable MRs as the prediction results.
 
 you can run singleMR.py to obtain the evaluation results of each MRs, and run overall.py to obtain the overall evaluation results.
