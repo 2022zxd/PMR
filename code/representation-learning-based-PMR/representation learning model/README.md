@@ -12,4 +12,4 @@ This folder contains part of the code we used of the code representation learnin
 
 [ast2vec](https://gitlab.com/bpaassen/ast2vec).
 
-The data used in our experiments are in [vector](PMR/data/vector).
+The data used in our experiments are in [vector](https://github.com/2022zxd/PMR/tree/master/data/vector).
