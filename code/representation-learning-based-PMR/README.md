@@ -1,5 +1,3 @@
-This folder contains part of the code we used of the code representation learning model.
-
 For testing the MR predictor, the code representation model is applied on the input programs, 
 and the resulting code vectors(mark MR labels to create datasets) are then fed into the classification model, yielding applicable MRs as the prediction results.
 
