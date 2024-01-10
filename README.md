@@ -3,7 +3,7 @@ This repository contains data and code for the paper "Boosting Metamorphic Relat
 
 ## Code 
 
-* Code for experimental analysis
+* Code of code-representation-based PMR approaches
 
 ## Data
 
@@ -11,7 +11,7 @@ This repository contains data and code for the paper "Boosting Metamorphic Relat
   
 ## Results
 
-* Results for experimental evaluation
+* Results from our experimental evaluation
   
 Please refer to [result-info.md](results/result-info.md) for more details.
 
