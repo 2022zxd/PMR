@@ -1,8 +1,7 @@
 For testing the MR predictor, the code representation model is applied on the input programs, 
 and the resulting code vectors(mark MR labels to create datasets) are then fed into the classification model, yielding applicable MRs as the prediction results.
 
-The main steps are：
-
+##The main steps are：
 *first, use the trained or pre-trained code representation model for transforming a set of programs to their vector representations, 
 which accordingly form the basis for the data preparation phase. 
 *second, feed the code vector into the classifier, yielding applicable MRs as the prediction results.
